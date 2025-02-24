@@ -1,0 +1,8 @@
+baseURL = "https://smm-book.vercel.app/"
+languageCode = "en-us"
+title = "Social Media Marketing Guide Book"
+theme = "hugo-book"
+
+[params]
+  BookTheme = "light"
+  BookToC = true
